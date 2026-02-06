@@ -3,7 +3,7 @@ requires = ["hatchling"]
 build-backend = "hatchling.build"
 
 [project]
-name = "acp-protocol"
+name = "adaptive-context"
 version = "0.1.0"
 description = "Adaptive Context Protocol - Multi-resolution data serialization for token-efficient LLM communication"
 readme = "README.md"
