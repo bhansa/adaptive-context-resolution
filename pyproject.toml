@@ -4,7 +4,7 @@ build-backend = "hatchling.build"
 
 [project]
 name = "adaptive-context-resolution"
-version = "0.1.0"
+version = "0.1.1"
 description = "Adaptive Context Protocol - Multi-resolution data serialization for token-efficient LLM communication"
 readme = "README.md"
 license = "MIT"
